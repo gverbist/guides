@@ -1,4 +1,4 @@
-# Documentation Projects
+# WLED with HA integration
 
 ## Getting Super Powers
 

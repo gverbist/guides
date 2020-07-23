@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Documentation Projects](README.md)
+* [WLED with HA integration](wled-with-ha-integration.md)
 
